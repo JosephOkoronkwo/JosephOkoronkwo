@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Utility Tools (AlgoExpert)</b>
+- <b>Utility Tools </b>
   - [Python Based Directory Analyzing Utility Tool](https://github.com/JosephOkoronkwo/Verifile)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
