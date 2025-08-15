@@ -1,9 +1,9 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/JosephOkoronkwo">Programmer</a>, <a href="https://www.linkedin.com/in/joseph-okoronkwo/">Data Engineer</a>
+<h1>Hi, I'm Joseph Okoronkwo! <br/><a href="https://github.com/JosephOkoronkwo">Programmer</a>, <a href="https://www.linkedin.com/in/joseph-okoronkwo/">Data Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Directory Analyzing Utility Tool](https://github.com/JosephOkoronkwo/Verifile)
+- <b>Utility Tools (AlgoExpert)</b>
+  - [Python Based Directory Analyzing Utility Tool](https://github.com/JosephOkoronkwo/Verifile)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
